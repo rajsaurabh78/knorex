@@ -1,0 +1,3 @@
+
+!ENTRY org.eclipse.core.jobs 2 2 2024-08-13 15:52:53.041
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob
